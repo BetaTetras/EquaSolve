@@ -40,6 +40,9 @@ int main()
     int PartX = arrayToInt(TabX,SizeTabX);
     int PartY = arrayToInt(TabY,SizeTabY);
 
+    std::cout << Equa << '\n';
+    std::cout << "x=" << PartY << "-" << PartX << '\n';
+    std::cout << "x=" << PartY-PartX << '\n' << '\n';
     
     std::cout << "******************************************************************\n";
 
