@@ -14,5 +14,5 @@ Inacceptable syntaxe:
 	- 45 + x = 7
 	-2 = 56+x
 
-First version , wille be better over time
+First version , will be better over time
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
